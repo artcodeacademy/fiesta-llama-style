@@ -22,7 +22,8 @@ a {
 
 li {
 display: inline;
-    font-size:30px;
+    font-size:40px;
+    padding:30px;
 }
 
 .block {
