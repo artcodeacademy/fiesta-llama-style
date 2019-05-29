@@ -20,6 +20,14 @@ a {
     color: black;
 }
 
+ul a {
+list-style-type: none;
+}
+li a {
+display: inline;
+    
+}
+
 .block {
     margin: 20px;
     padding: 15px;
