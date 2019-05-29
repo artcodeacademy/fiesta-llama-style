@@ -39,7 +39,9 @@ a {
     align-content: center;
     align-items: center;
 }
-
+.banner{
+width:50%;
+}
 
 img {
   width:80%;
