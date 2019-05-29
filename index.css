@@ -3,6 +3,13 @@ body {
     background: linear-gradient(37deg, rgb(244, 66, 66, .3), white);
     background-repeat: no-repeat;
 }
+.header {
+  padding: 60px;
+  text-align: center;
+  background: #1abc9c;
+  color: white;
+  font-size: 30px;
+}
 
 h1 {
     color: black;
